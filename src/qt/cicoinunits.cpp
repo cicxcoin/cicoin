@@ -43,7 +43,7 @@ QString CicoinUnits::longName(int unit)
     case CICX: return QString("CICX");
     case mCICX: return QString("mCICX");
     case uCICX: return QString::fromUtf8("µCICX (bits)");
-    case SAT: return QString("Satoshi (sat)");
+    case SAT: return QString("Ione (sat)");
     default: return QString("???");
     }
 }
@@ -65,7 +65,7 @@ QString CicoinUnits::description(int unit)
     case CICX: return QString("Cicoins");
     case mCICX: return QString("Milli-Cicoins (1 / 1" THIN_SP_UTF8 "000)");
     case uCICX: return QString("Micro-Cicoins (bits) (1 / 1" THIN_SP_UTF8 "000" THIN_SP_UTF8 "000)");
-    case SAT: return QString("Satoshi (sat) (1 / 100" THIN_SP_UTF8 "000" THIN_SP_UTF8 "000)");
+    case SAT: return QString("Ione (sat) (1 / 100" THIN_SP_UTF8 "000" THIN_SP_UTF8 "000)");
     default: return QString("???");
     }
 }
