@@ -12,7 +12,7 @@
  * for both cicoind and cicoin-qt, to make it harder for attackers to
  * target servers or GUI users specifically.
  */
-const std::string CLIENT_NAME("Cicoin");
+const std::string CLIENT_NAME("Ione");
 
 /**
  * Client version number
