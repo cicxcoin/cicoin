@@ -23,3 +23,4 @@ with open(tracefile, 'r', encoding="utf8") as f:
                 wf.write(line)
             if line == 'end_of_record\n':
                 in_remove = False
+
