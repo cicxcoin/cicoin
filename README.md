@@ -2,6 +2,7 @@ Cicoin Core integration/staging tree
 =====================================
 
 https://cicoin.asia
+<br>
 https://cicx.io
 
 What is Cicoin?
@@ -15,7 +16,7 @@ software which enables the use of this currency.
 
 For more information, as well as an immediately useable, binary version of
 the Cicoin Core software, see https://cicx.io/download/, or read the
-[original whitepaper](https://cicx.io/cicoin.pdf).
+[original whitepaper](https://cicoin.asia/).
 
 License
 -------
